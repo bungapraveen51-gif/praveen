@@ -1,0 +1,20 @@
+DSA -Arrays, strings, linked list more
+     searching,sorting,two pointer algorithm
+     problem and building logic
+Resume- 70-75%
+
+Linkedin-Post some learning or article.Active with linked
+
+Projects- Datasets from the opensource do the some of the Transformation
+          Added to git repository this link mention your resume
+
+Certifiaction-
+do some small projects add in git
+sql,dsa,de we can get lot so many resorces
+system design- won practice/experience- 2 months to prepare proper system design
+Data Modal- Practice system design no resources to learn. It is the logic you build
+How you understand the problem and how you design the architecture 
+Degign from architecture or pipeline to the excecution
+Practice system design based on the real time application Amazon, Instagram,Youtube
+chatgpt -Give suggetions for you.It cannot build the project for you. it will not replace it will evolve.evoved with AI
+Problem Solvig ,Data, System
